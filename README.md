@@ -15,7 +15,12 @@ The goal is to identify and locate signatures within document images. The proces
 
 *   Python 3.x
 *   Google Colaboratory or Jupyter Notebook environment (preferably with GPU access for faster training)
-*   Required Python libraries (listed below)
+*   Required Python libraries:                                                                                                                                               - Python 3.8+
+- [YOLOv8](https://github.com/ultralytics/ultralytics)
+- PyTorch
+- OpenCV
+- Pandas, NumPy
+- Matplotlib
 
 ## Setup
 
